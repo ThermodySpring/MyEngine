@@ -1,0 +1,5 @@
+﻿  AppFramework.cpp
+C:\Users\USER\Desktop\Potfolio\MyEngine\OJWEngine\OJWEngine\AppFramework.h(3,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  OJWEngine.vcxproj -> C:\Users\USER\Desktop\Potfolio\MyEngine\OJWEngine\x64\Debug\OJWEngine.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
